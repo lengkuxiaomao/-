@@ -1,0 +1,5 @@
+{
+  "name": "BrowserStardew",
+  "description": "A browser-based farming simulator prototype inspired by Stardew Valley.",
+  "requestFramePermissions": []
+}
